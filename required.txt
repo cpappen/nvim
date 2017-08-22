@@ -1,0 +1,2 @@
+brew install neovim python3
+pip3 install deoplete
